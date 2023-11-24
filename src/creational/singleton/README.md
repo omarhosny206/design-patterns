@@ -7,11 +7,9 @@ There are multiple implementations of the Singleton Design Pattern: Eager, Lazy,
 Locking.
 
 
-<div style="text-align:center">
-    <br> <br>  
+<p align="center">
     <img src="https://github.com/omarhosny206/design-patterns/assets/58389695/5aff2c83-3e72-4825-a649-b9fb69bd9346" alt="UML">
-    <br> <br>
-</div>
+</p>
 
 ## Implementation Details
 
