@@ -35,3 +35,8 @@ from creating multiple instances simultaneously.
 
 The Double-Checked Locking Singleton improves the Thread-Safe Singleton. It trims synchronization overhead by confirming
 the instance both inside and outside the synchronized block.
+
+## Usage
+```java
+DatabaseConnection databaseConnection = DatabaseConnection.getInstance();
+```
