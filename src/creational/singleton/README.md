@@ -6,6 +6,13 @@ The Singleton Design Pattern ensures that a class has only one instance and prov
 There are multiple implementations of the Singleton Design Pattern: Eager, Lazy, Thread-Safe and Double-Checked
 Locking.
 
+
+<div style="text-align:center">
+    <br> <br>  
+    <img src="https://github.com/omarhosny206/design-patterns/assets/58389695/5aff2c83-3e72-4825-a649-b9fb69bd9346" alt="UML">
+    <br> <br>
+</div>
+
 ## Implementation Details
 
 Let's give an example of `DatabaseConnection` class.
