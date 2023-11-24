@@ -29,3 +29,17 @@ The example consists of multiple classes and interfaces [[Path](./)]:
 
 5. `Client`: a class that acts as a facilitator for cloning objects. Its clone method accepts a Cloneable object and returns a
    cloned instance.
+
+## Usage
+
+```java
+Circle circle = new Circle(5);
+Circle clonedCircle = (Circle) Client.clone(circle);
+System.out.println("Original circle: " + circle);
+System.out.println("Cloned circle: " + clonedCircle);
+
+Square square = new Square(5);
+Square clonedSquare = (Square) Client.clone(square);
+System.out.println("Original square: " + square);
+System.out.println("Cloned square: " + clonedSquare);
+```
