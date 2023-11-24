@@ -5,7 +5,7 @@ public class Main {
         PaymentStrategy creditCardPaymentStrategy = new CreditCardPaymentStrategy();
         PaymentStrategy paypalPaymentStrategy = new PaypalPaymentStrategy();
 
-        Client.pay(creditCardPaymentStrategy);
-        Client.pay(paypalPaymentStrategy);
+        Context.pay(creditCardPaymentStrategy);
+        Context.pay(paypalPaymentStrategy);
     }
 }

@@ -1,6 +1,6 @@
 package behavioral.strategy;
 
-public class Client {
+public class Context {
     public static void pay(PaymentStrategy paymentStrategy) {
         paymentStrategy.pay();
     }
