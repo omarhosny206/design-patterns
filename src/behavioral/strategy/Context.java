@@ -1,7 +1,13 @@
 package behavioral.strategy;
 
 public class Context {
-    public static void pay(PaymentStrategy paymentStrategy) {
+    private final PaymentStrategy paymentStrategy;
+
+    public Context(PaymentStrategy paymentStrategy) {
+        this.paymentStrategy = paymentStrategy;
+    }
+
+    public void pay() {
         paymentStrategy.pay();
     }
 }

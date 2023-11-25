@@ -24,7 +24,7 @@ The example consists of multiple classes and interfaces: [🔗](./)
    the pay method for Paypal payments.
 
 4. `Context`: a class that acts as a context for payment, allowing the client to choose and use different payment
-   strategies. It includes a pay method that accepts a PaymentStrategy parameter and delegates the payment process.
+   strategies. It composes a `PaymentStartegy` and has a `pay` method that delegates the payment process to the chosen `PaymentStrategy`.
 
 ## Usage
 
@@ -32,6 +32,9 @@ The example consists of multiple classes and interfaces: [🔗](./)
 PaymentStrategy creditCardPaymentStrategy = new CreditCardPaymentStrategy();
 PaymentStrategy paypalPaymentStrategy = new PaypalPaymentStrategy();
 
-Context.pay(creditCardPaymentStrategy);
-Context.pay(paypalPaymentStrategy);
+Context creditCardPaymentContext = new Context(creditCardPaymentStrategy);
+Context paypalPaymentContext = new Context(paypalPaymentStrategy);
+
+creditCardPaymentContext.pay();
+paypalPaymentContext.pay();
 ```
