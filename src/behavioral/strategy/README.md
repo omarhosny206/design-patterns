@@ -7,7 +7,7 @@ algorithm, and makes them interchangeable. It allows the client to choose the ap
 it easy to switch between different strategies without altering the client code.
 
 <p align="center">
-    <img src="https://github.com/omarhosny206/design-patterns/assets/58389695/0db2949f-13e5-4ab4-a9ae-aad22be4d480" alt="UML">
+    <img src="https://github.com/omarhosny206/design-patterns/assets/58389695/4471f766-6766-4478-ae06-15e369486aab" alt="UML">
 </p>
 
 ## Implementation Details
