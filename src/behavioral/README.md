@@ -9,7 +9,8 @@ the flexibility and extensibility of a system.
 ## Patterns Included
 
 1. Strategy Pattern [🔗](./strategy)
-2. Observer Pattern [🔗](./observer)
+2. State Pattern [🔗](./state)
+3. Observer Pattern [🔗](./observer)
 
 ## Advantages
 
