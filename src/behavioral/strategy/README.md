@@ -40,5 +40,5 @@ paypalPaymentContext.pay();
 ```
 
 ## Useful links
-**What is the difference between Strategy design pattern and State design pattern?** [Strategy vs. State Design Pattern](https://stackoverflow.com/questions/1658192/what-is-the-difference-between-strategy-design-pattern-and-state-design-pattern)
+**What is the difference between Strategy design pattern and State design pattern?** [Strategy vs. State Design Pattern 🔗](https://stackoverflow.com/questions/1658192/what-is-the-difference-between-strategy-design-pattern-and-state-design-pattern)
 
