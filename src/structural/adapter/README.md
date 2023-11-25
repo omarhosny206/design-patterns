@@ -23,7 +23,7 @@ The structure:
 
 4. `Client`: a class that interacts with the Target interface.
 
-The example consists of multiple classes and interfaces [🔗](./):
+The example consists of multiple classes and interfaces: [🔗](./)
 
 1. `Chargeable`: an interface that acts as a target and has charge method.
 

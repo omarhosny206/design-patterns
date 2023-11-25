@@ -12,7 +12,7 @@ it easy to switch between different strategies without altering the client code.
 
 ## Implementation Details
 
-The example consists of multiple classes and interfaces [🔗](./):
+The example consists of multiple classes and interfaces: [🔗](./)
 
 1. `PaymentStrategy`: an interface that declares the pay method, serving as the common interface for all payment
    strategies.

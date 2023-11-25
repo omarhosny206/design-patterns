@@ -12,7 +12,7 @@ than constructing new instances.
 
 ## Implementation Details
 
-The example consists of multiple classes and interfaces [🔗](./):
+The example consists of multiple classes and interfaces: [🔗](./)
 
 1. `Cloneable`: an interface that declares the clone method, serving as the foundation for objects that support
    cloning.
