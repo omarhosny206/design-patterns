@@ -8,9 +8,9 @@ created, composed, and represented.
 
 ## Patterns Included
 
-1. Singleton Pattern [[Path](./singleton)]
-2. Builder Pattern [[Path](./builder)]
-3. Prototype Pattern [[Path](./prototype)]
+1. Singleton Pattern [🔗](./singleton)
+2. Builder Pattern [🔗](./builder)
+3. Prototype Pattern [🔗](./prototype)
 
 ## Advantages
 

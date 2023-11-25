@@ -8,7 +8,7 @@ the flexibility and extensibility of a system.
 
 ## Patterns Included
 
-1. Strategy Pattern [[Path](./strategy)]
+1. Strategy Pattern [🔗](./strategy)
 
 ## Advantages
 

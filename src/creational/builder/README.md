@@ -14,7 +14,7 @@ useful when dealing with objects that have a complex construction process with m
 
 Let's give an example of `Computer` class.
 
-The example consists of two classes [[Path](Computer.java)]:
+The example consists of two classes [🔗](Computer.java):
 
 1. `Computer`: The main class representing the computer with optional components. It has a private constructor and a
    static nested builder class.

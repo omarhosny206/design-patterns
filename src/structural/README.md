@@ -6,6 +6,10 @@ Structural Design Patterns are a category of design patterns that focus on the c
 form larger structures. They provide solutions for building flexible and efficient software architectures by defining
 how classes and objects can be combined to create new functionalities.
 
+## Patterns Included
+
+1. Adapter Pattern [🔗](./adapter)
+
 ## Advantages
 
 - Flexibility: Structural patterns enhance flexibility by promoting the composition of classes and objects, allowing for
