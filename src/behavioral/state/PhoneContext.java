@@ -1,7 +1,7 @@
 package behavioral.state;
 
 public class PhoneContext {
-    private final PhoneState phoneState;
+    private PhoneState phoneState;
 
     public PhoneContext(PhoneState phoneState) {
         this.phoneState = phoneState;
@@ -9,5 +9,9 @@ public class PhoneContext {
 
     public void pressPowerButton() {
         phoneState.pressPowerButton(this);
+    }
+
+    public void changePhoneState(PhoneState phoneState) {
+        this.phoneState = phoneState;
     }
 }
