@@ -29,7 +29,7 @@ developers.
     - Iterator
     - Mediator
     - Memento
-    - Observer
+    - Observer [🔗](./src/behavioral/observer)
     - State
     - Strategy [🔗](./src/behavioral/strategy)
     - Template Method
