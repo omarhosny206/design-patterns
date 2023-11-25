@@ -30,7 +30,7 @@ developers.
     - Mediator
     - Memento
     - Observer [🔗](./src/behavioral/observer)
-    - State
+    - State [🔗](./src/behavioral/state)
     - Strategy [🔗](./src/behavioral/strategy)
     - Template Method
     - Visitor
