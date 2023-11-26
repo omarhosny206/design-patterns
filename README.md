@@ -11,7 +11,7 @@ developers.
 - Creational: [🔗](./src/creational)
     - Singleton [🔗](./src/creational/singleton)
     - Factory/Factory Method [🔗](./src/creational/factorymethod)
-    - Abstract Factory
+    - Abstract Factory [🔗](./src/creational/abstractfactory)
     - Builder  [🔗](./src/creational/builder)
     - Prototype  [🔗](./src/creational/prototype)
 - Structural:  [🔗](./src/structural)
