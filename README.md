@@ -10,7 +10,7 @@ developers.
 
 - Creational: [🔗](./src/creational)
     - Singleton [🔗](./src/creational/singleton)
-    - Factory Method
+    - Factory/Factory Method [🔗](./src/creational/factorymethod)
     - Abstract Factory
     - Builder  [🔗](./src/creational/builder)
     - Prototype  [🔗](./src/creational/prototype)
