@@ -9,7 +9,7 @@ created, composed, and represented.
 ## Patterns Included
 
 1. Singleton Pattern [🔗](./singleton)
-2. Factory/Factory Method Pattern [🔗](./factorymethod)
+2. Factory Pattern [🔗](./factory) (Simple Factory [🔗](./factory/simplefactory), Factory Method [🔗](./factory/factorymethod))
 3. Abstract Factory Pattern [🔗](./abstractfactory)
 4. Builder Pattern [🔗](./builder)
 5. Prototype Pattern [🔗](./prototype)
