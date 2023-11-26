@@ -1,4 +1,4 @@
-package creational.factorymethod;
+package creational.factory.simplefactory;
 
 public class XmlPayloadParser implements PayloadParser {
     @Override

@@ -1,4 +1,4 @@
-package creational.factorymethod;
+package creational.factory.simplefactory;
 
 public class PayloadParserFactory {
     public static PayloadParser getPayloadParser(String payloadParserType) {
