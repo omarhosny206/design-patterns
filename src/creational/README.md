@@ -10,8 +10,9 @@ created, composed, and represented.
 
 1. Singleton Pattern [🔗](./singleton)
 2. Factory/Factory Method Pattern [🔗](./factorymethod)
-3. Builder Pattern [🔗](./builder)
-4. Prototype Pattern [🔗](./prototype)
+3. Abstract Factory Pattern [🔗](./abstractfactory)
+4. Builder Pattern [🔗](./builder)
+5. Prototype Pattern [🔗](./prototype)
 
 ## Advantages
 
