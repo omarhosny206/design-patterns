@@ -1,4 +1,4 @@
-# Simple Factory Design Pattern
+# Factory (Simple Factory) Design Pattern
 
 <p align="center">
     <img src="https://github.com/omarhosny206/design-patterns/assets/58389695/fe53eb0f-7f6e-4850-9377-09a3683d18a1" alt="UML">

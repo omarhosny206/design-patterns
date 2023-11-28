@@ -1,4 +1,4 @@
-# Factory Method Design Pattern
+# Factory (Factory Method) Design Pattern
 
 <p align="center">
     <img src="https://github.com/omarhosny206/design-patterns/assets/58389695/c8b5443c-0663-4368-9ce7-245c8dde3c36" alt="UML">
