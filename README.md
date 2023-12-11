@@ -16,7 +16,7 @@ developers.
     - Prototype  [🔗](./src/creational/prototype)
 - Structural:  [🔗](./src/structural)
     - Adapter  [🔗](./src/structural/adapter)
-    - Bridge
+    - Bridge [🔗](./src/structural/bridge)
     - Composite
     - Decorator
     - Facade
