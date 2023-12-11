@@ -19,7 +19,7 @@ The structure:
 
 2. `RefinedAbstraction`: a refined abstraction class that extends the abstraction and provides specific implementations.
 
-3. `Implementor`: an interface that defines the low-level operations.
+3. `Implementor`: an interface that defines the low-level operations. it is also known as the `Bridge` interface.
 
 4. `ConcreteImplementorA & ConcreteImplementorB`: classes that implement the `Implementor` interface.
 
@@ -30,8 +30,7 @@ The example consists of multiple classes and interfaces: [🔗](./)
 
 2. `Square & Triangle`: refined abstraction classes that extend the `Shape` and provide specific implementations.
 
-3. `Color`: an interface that represents the low-level operation of filling a shape with color. it is also called
-   the `Bridge` interface.
+3. `Color`: an interface that represents the low-level operation of filling a shape with color. it is also known as the `Bridge` interface.
 
 4. `Green & Red`: classes that implement the `Color` interface.
 
