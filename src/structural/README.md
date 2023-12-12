@@ -10,6 +10,7 @@ how classes and objects can be combined to create new functionalities.
 
 1. Adapter Pattern [🔗](./adapter)
 2. Bridge Pattern [🔗](./bridge)
+3. Composite Pattern [🔗](./composite)
 
 ## Advantages
 
