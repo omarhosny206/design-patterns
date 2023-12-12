@@ -28,7 +28,7 @@ developers.
     - Interpreter
     - Iterator
     - Mediator
-    - Memento
+    - Memento [🔗](./src/behavioral/memento)
     - Observer [🔗](./src/behavioral/observer)
     - State [🔗](./src/behavioral/state)
     - Strategy [🔗](./src/behavioral/strategy)
