@@ -23,7 +23,7 @@ developers.
     - Flyweight
     - Proxy
 - Behavioral: [🔗](./src/behavioral)
-    - Chain of Responsibility
+    - Chain of Responsibility [🔗](./src/behavioral/chainofresponsibility)
     - Command
     - Interpreter
     - Iterator
