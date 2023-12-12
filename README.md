@@ -17,7 +17,7 @@ developers.
 - Structural:  [🔗](./src/structural)
     - Adapter  [🔗](./src/structural/adapter)
     - Bridge [🔗](./src/structural/bridge)
-    - Composite
+    - Composite [🔗](./src/structural/composite)
     - Decorator
     - Facade
     - Flyweight
