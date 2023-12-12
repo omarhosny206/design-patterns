@@ -11,6 +11,7 @@ the flexibility and extensibility of a system.
 1. Strategy Pattern [🔗](./strategy)
 2. State Pattern [🔗](./state)
 3. Observer Pattern [🔗](./observer)
+4. Chain of Responsibility Pattern [🔗](./chainofresponsibility)
 
 ## Advantages
 
